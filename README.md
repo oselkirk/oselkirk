@@ -32,7 +32,7 @@ OpenIFS via MobaXTerm
 
 | Project | Description |
 |---------|-------------|
-| [MSc Dissertation](#) | Impact of AMOC Collapse on Southern Africa hydroclimate |
+| [Spatial Analysis Projects](https://github.com/oselkirk/Spatial-Analysis-Projects) Collection of GIS projects including environmental mapping and spatial data analysis. |
 | [Climate Data Visualization](#) | Python notebooks analyzing climate model outputs |
 | [Geospatial Mapping](#) | GIS analysis and spatial visualization samples |
 
