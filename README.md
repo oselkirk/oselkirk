@@ -34,6 +34,7 @@ OpenIFS via MobaXTerm
 |---------|-------------|
 | [Spatial Analysis Projects](https://github.com/oselkirk/Spatial-Analysis-Projects) | Collection of GIS projects including environmental mapping and spatial data analysis. |
 | [Python Projects](https://github.com/oselkirk/Spatial-Analysis-Projects) | Python notebooks analyzing climate models and large-scale atmospheric behavior.|
+| [Climate Communication](https://github.com/oselkirk/Climate-Communication-Pieces) | Portfolio of climate and environmental writing focused on making complex science accessible to non-specialist audiences.|
 
 ---
 ## Connect With Me!
