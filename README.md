@@ -1,5 +1,5 @@
 # Olivia Selkirk
-**MSc Applied Meteorology & Climate | Climate Data Analysis | Atmospheric Dynamics**
+**MSc Applied Meteorology & Climate | Climate Data Analysis | Atmospheric Dynamics | Climate Communication**
 
 ---
 ## About Me
