@@ -13,7 +13,7 @@ I am passionate about utilizing creative writing and communication to make clima
 I combine **Python workflows, geospatial mapping, and climate communication** to translate complex environmental data into clear insights.
 
 ---
-## Tech Stack
+## Technical Experience
 
 **Programming & Analysis**  
 Python
@@ -22,6 +22,7 @@ Microsoft Excel
 
 **Climate & Geospatial Tools**  
 ArcGIS Pro
+QGIS
 OpenIFS via MobaXTerm
 
 **Data Skills**  
