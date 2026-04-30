@@ -8,7 +8,9 @@ I am a climate science graduate with an MSc in Applied Meteorology and Climate f
 
 My Master's dissertation examined the impacts of an Atlantic Meridional Overturning Circulation (AMOC) collapse on hydroclimate systems in Southern Africa using Python-based climate model analysis, highlighting spatial changes in precipitation and temperature variability.
 
-I combine **Python workflows, geospatial mapping, and statistical analysis** to translate complex environmental data into clear insights.
+I am passionate about utilizing creative writing and communication to make climate science accessible and interesting for non-technical audiences to bridge the gap and empower non-scientists in their personal efforts toward climate change mitigation.
+
+I combine **Python workflows, geospatial mapping, and climate communication** to translate complex environmental data into clear insights.
 
 ---
 ## Tech Stack
